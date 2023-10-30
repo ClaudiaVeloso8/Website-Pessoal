@@ -1,0 +1,93 @@
+C:\Users\patri\Desktop\ufcd aspnetcore\Website_pessoal\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\patri\Desktop\ufcd aspnetcore\Website_pessoal\bin\Debug\net6.0\appsettings.json
+C:\Users\patri\Desktop\ufcd aspnetcore\Website_pessoal\bin\Debug\net6.0\Website_pessoal.staticwebassets.runtime.json
+C:\Users\patri\Desktop\ufcd aspnetcore\Website_pessoal\bin\Debug\net6.0\Website_pessoal.exe
+C:\Users\patri\Desktop\ufcd aspnetcore\Website_pessoal\bin\Debug\net6.0\Website_pessoal.deps.json
+C:\Users\patri\Desktop\ufcd aspnetcore\Website_pessoal\bin\Debug\net6.0\Website_pessoal.runtimeconfig.json
+C:\Users\patri\Desktop\ufcd aspnetcore\Website_pessoal\bin\Debug\net6.0\Website_pessoal.dll
+C:\Users\patri\Desktop\ufcd aspnetcore\Website_pessoal\bin\Debug\net6.0\Website_pessoal.pdb
+C:\Users\patri\Desktop\ufcd aspnetcore\Website_pessoal\obj\Debug\net6.0\Website_pessoal.csproj.AssemblyReference.cache
+C:\Users\patri\Desktop\ufcd aspnetcore\Website_pessoal\obj\Debug\net6.0\Website_pessoal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\patri\Desktop\ufcd aspnetcore\Website_pessoal\obj\Debug\net6.0\Website_pessoal.AssemblyInfoInputs.cache
+C:\Users\patri\Desktop\ufcd aspnetcore\Website_pessoal\obj\Debug\net6.0\Website_pessoal.AssemblyInfo.cs
+C:\Users\patri\Desktop\ufcd aspnetcore\Website_pessoal\obj\Debug\net6.0\Website_pessoal.csproj.CoreCompileInputs.cache
+C:\Users\patri\Desktop\ufcd aspnetcore\Website_pessoal\obj\Debug\net6.0\Website_pessoal.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\patri\Desktop\ufcd aspnetcore\Website_pessoal\obj\Debug\net6.0\Website_pessoal.RazorAssemblyInfo.cache
+C:\Users\patri\Desktop\ufcd aspnetcore\Website_pessoal\obj\Debug\net6.0\Website_pessoal.RazorAssemblyInfo.cs
+C:\Users\patri\Desktop\ufcd aspnetcore\Website_pessoal\obj\Debug\net6.0\staticwebassets\msbuild.Website_pessoal.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\patri\Desktop\ufcd aspnetcore\Website_pessoal\obj\Debug\net6.0\staticwebassets\msbuild.build.Website_pessoal.props
+C:\Users\patri\Desktop\ufcd aspnetcore\Website_pessoal\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Website_pessoal.props
+C:\Users\patri\Desktop\ufcd aspnetcore\Website_pessoal\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Website_pessoal.props
+C:\Users\patri\Desktop\ufcd aspnetcore\Website_pessoal\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\patri\Desktop\ufcd aspnetcore\Website_pessoal\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\patri\Desktop\ufcd aspnetcore\Website_pessoal\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\patri\Desktop\ufcd aspnetcore\Website_pessoal\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\patri\Desktop\ufcd aspnetcore\Website_pessoal\obj\Debug\net6.0\scopedcss\bundle\Website_pessoal.styles.css
+C:\Users\patri\Desktop\ufcd aspnetcore\Website_pessoal\obj\Debug\net6.0\scopedcss\projectbundle\Website_pessoal.bundle.scp.css
+C:\Users\patri\Desktop\ufcd aspnetcore\Website_pessoal\obj\Debug\net6.0\Website_pessoal.dll
+C:\Users\patri\Desktop\ufcd aspnetcore\Website_pessoal\obj\Debug\net6.0\refint\Website_pessoal.dll
+C:\Users\patri\Desktop\ufcd aspnetcore\Website_pessoal\obj\Debug\net6.0\Website_pessoal.pdb
+C:\Users\patri\Desktop\ufcd aspnetcore\Website_pessoal\obj\Debug\net6.0\Website_pessoal.genruntimeconfig.cache
+C:\Users\patri\Desktop\ufcd aspnetcore\Website_pessoal\obj\Debug\net6.0\ref\Website_pessoal.dll
+C:\Users\patri\Desktop\ufcd aspnetcore\Website Claudia\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\patri\Desktop\ufcd aspnetcore\Website Claudia\bin\Debug\net6.0\appsettings.json
+C:\Users\patri\Desktop\ufcd aspnetcore\Website Claudia\bin\Debug\net6.0\Website_pessoal.staticwebassets.runtime.json
+C:\Users\patri\Desktop\ufcd aspnetcore\Website Claudia\bin\Debug\net6.0\Website_pessoal.exe
+C:\Users\patri\Desktop\ufcd aspnetcore\Website Claudia\bin\Debug\net6.0\Website_pessoal.deps.json
+C:\Users\patri\Desktop\ufcd aspnetcore\Website Claudia\bin\Debug\net6.0\Website_pessoal.runtimeconfig.json
+C:\Users\patri\Desktop\ufcd aspnetcore\Website Claudia\bin\Debug\net6.0\Website_pessoal.dll
+C:\Users\patri\Desktop\ufcd aspnetcore\Website Claudia\bin\Debug\net6.0\Website_pessoal.pdb
+C:\Users\patri\Desktop\ufcd aspnetcore\Website Claudia\obj\Debug\net6.0\Website_pessoal.csproj.AssemblyReference.cache
+C:\Users\patri\Desktop\ufcd aspnetcore\Website Claudia\obj\Debug\net6.0\Website_pessoal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\patri\Desktop\ufcd aspnetcore\Website Claudia\obj\Debug\net6.0\Website_pessoal.AssemblyInfoInputs.cache
+C:\Users\patri\Desktop\ufcd aspnetcore\Website Claudia\obj\Debug\net6.0\Website_pessoal.AssemblyInfo.cs
+C:\Users\patri\Desktop\ufcd aspnetcore\Website Claudia\obj\Debug\net6.0\Website_pessoal.csproj.CoreCompileInputs.cache
+C:\Users\patri\Desktop\ufcd aspnetcore\Website Claudia\obj\Debug\net6.0\Website_pessoal.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\patri\Desktop\ufcd aspnetcore\Website Claudia\obj\Debug\net6.0\Website_pessoal.RazorAssemblyInfo.cache
+C:\Users\patri\Desktop\ufcd aspnetcore\Website Claudia\obj\Debug\net6.0\Website_pessoal.RazorAssemblyInfo.cs
+C:\Users\patri\Desktop\ufcd aspnetcore\Website Claudia\obj\Debug\net6.0\staticwebassets\msbuild.Website_pessoal.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\patri\Desktop\ufcd aspnetcore\Website Claudia\obj\Debug\net6.0\staticwebassets\msbuild.build.Website_pessoal.props
+C:\Users\patri\Desktop\ufcd aspnetcore\Website Claudia\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Website_pessoal.props
+C:\Users\patri\Desktop\ufcd aspnetcore\Website Claudia\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Website_pessoal.props
+C:\Users\patri\Desktop\ufcd aspnetcore\Website Claudia\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\patri\Desktop\ufcd aspnetcore\Website Claudia\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\patri\Desktop\ufcd aspnetcore\Website Claudia\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\patri\Desktop\ufcd aspnetcore\Website Claudia\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\patri\Desktop\ufcd aspnetcore\Website Claudia\obj\Debug\net6.0\scopedcss\bundle\Website_pessoal.styles.css
+C:\Users\patri\Desktop\ufcd aspnetcore\Website Claudia\obj\Debug\net6.0\scopedcss\projectbundle\Website_pessoal.bundle.scp.css
+C:\Users\patri\Desktop\ufcd aspnetcore\Website Claudia\obj\Debug\net6.0\Website_pessoal.dll
+C:\Users\patri\Desktop\ufcd aspnetcore\Website Claudia\obj\Debug\net6.0\refint\Website_pessoal.dll
+C:\Users\patri\Desktop\ufcd aspnetcore\Website Claudia\obj\Debug\net6.0\Website_pessoal.pdb
+C:\Users\patri\Desktop\ufcd aspnetcore\Website Claudia\obj\Debug\net6.0\Website_pessoal.genruntimeconfig.cache
+C:\Users\patri\Desktop\ufcd aspnetcore\Website Claudia\obj\Debug\net6.0\ref\Website_pessoal.dll
+C:\Users\patri\Desktop\EFA NS PRO PROGRAMADOR\ufcd aspnetcore\Website Claudia\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\patri\Desktop\EFA NS PRO PROGRAMADOR\ufcd aspnetcore\Website Claudia\bin\Debug\net6.0\appsettings.json
+C:\Users\patri\Desktop\EFA NS PRO PROGRAMADOR\ufcd aspnetcore\Website Claudia\bin\Debug\net6.0\Website_pessoal.staticwebassets.runtime.json
+C:\Users\patri\Desktop\EFA NS PRO PROGRAMADOR\ufcd aspnetcore\Website Claudia\bin\Debug\net6.0\Website_pessoal.exe
+C:\Users\patri\Desktop\EFA NS PRO PROGRAMADOR\ufcd aspnetcore\Website Claudia\bin\Debug\net6.0\Website_pessoal.deps.json
+C:\Users\patri\Desktop\EFA NS PRO PROGRAMADOR\ufcd aspnetcore\Website Claudia\bin\Debug\net6.0\Website_pessoal.runtimeconfig.json
+C:\Users\patri\Desktop\EFA NS PRO PROGRAMADOR\ufcd aspnetcore\Website Claudia\bin\Debug\net6.0\Website_pessoal.dll
+C:\Users\patri\Desktop\EFA NS PRO PROGRAMADOR\ufcd aspnetcore\Website Claudia\bin\Debug\net6.0\Website_pessoal.pdb
+C:\Users\patri\Desktop\EFA NS PRO PROGRAMADOR\ufcd aspnetcore\Website Claudia\obj\Debug\net6.0\Website_pessoal.csproj.AssemblyReference.cache
+C:\Users\patri\Desktop\EFA NS PRO PROGRAMADOR\ufcd aspnetcore\Website Claudia\obj\Debug\net6.0\Website_pessoal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\patri\Desktop\EFA NS PRO PROGRAMADOR\ufcd aspnetcore\Website Claudia\obj\Debug\net6.0\Website_pessoal.AssemblyInfoInputs.cache
+C:\Users\patri\Desktop\EFA NS PRO PROGRAMADOR\ufcd aspnetcore\Website Claudia\obj\Debug\net6.0\Website_pessoal.AssemblyInfo.cs
+C:\Users\patri\Desktop\EFA NS PRO PROGRAMADOR\ufcd aspnetcore\Website Claudia\obj\Debug\net6.0\Website_pessoal.csproj.CoreCompileInputs.cache
+C:\Users\patri\Desktop\EFA NS PRO PROGRAMADOR\ufcd aspnetcore\Website Claudia\obj\Debug\net6.0\Website_pessoal.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\patri\Desktop\EFA NS PRO PROGRAMADOR\ufcd aspnetcore\Website Claudia\obj\Debug\net6.0\Website_pessoal.RazorAssemblyInfo.cache
+C:\Users\patri\Desktop\EFA NS PRO PROGRAMADOR\ufcd aspnetcore\Website Claudia\obj\Debug\net6.0\Website_pessoal.RazorAssemblyInfo.cs
+C:\Users\patri\Desktop\EFA NS PRO PROGRAMADOR\ufcd aspnetcore\Website Claudia\obj\Debug\net6.0\staticwebassets\msbuild.Website_pessoal.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\patri\Desktop\EFA NS PRO PROGRAMADOR\ufcd aspnetcore\Website Claudia\obj\Debug\net6.0\staticwebassets\msbuild.build.Website_pessoal.props
+C:\Users\patri\Desktop\EFA NS PRO PROGRAMADOR\ufcd aspnetcore\Website Claudia\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Website_pessoal.props
+C:\Users\patri\Desktop\EFA NS PRO PROGRAMADOR\ufcd aspnetcore\Website Claudia\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Website_pessoal.props
+C:\Users\patri\Desktop\EFA NS PRO PROGRAMADOR\ufcd aspnetcore\Website Claudia\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\patri\Desktop\EFA NS PRO PROGRAMADOR\ufcd aspnetcore\Website Claudia\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\patri\Desktop\EFA NS PRO PROGRAMADOR\ufcd aspnetcore\Website Claudia\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\patri\Desktop\EFA NS PRO PROGRAMADOR\ufcd aspnetcore\Website Claudia\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\patri\Desktop\EFA NS PRO PROGRAMADOR\ufcd aspnetcore\Website Claudia\obj\Debug\net6.0\scopedcss\bundle\Website_pessoal.styles.css
+C:\Users\patri\Desktop\EFA NS PRO PROGRAMADOR\ufcd aspnetcore\Website Claudia\obj\Debug\net6.0\scopedcss\projectbundle\Website_pessoal.bundle.scp.css
+C:\Users\patri\Desktop\EFA NS PRO PROGRAMADOR\ufcd aspnetcore\Website Claudia\obj\Debug\net6.0\Website_pessoal.dll
+C:\Users\patri\Desktop\EFA NS PRO PROGRAMADOR\ufcd aspnetcore\Website Claudia\obj\Debug\net6.0\refint\Website_pessoal.dll
+C:\Users\patri\Desktop\EFA NS PRO PROGRAMADOR\ufcd aspnetcore\Website Claudia\obj\Debug\net6.0\Website_pessoal.pdb
+C:\Users\patri\Desktop\EFA NS PRO PROGRAMADOR\ufcd aspnetcore\Website Claudia\obj\Debug\net6.0\Website_pessoal.genruntimeconfig.cache
+C:\Users\patri\Desktop\EFA NS PRO PROGRAMADOR\ufcd aspnetcore\Website Claudia\obj\Debug\net6.0\ref\Website_pessoal.dll
